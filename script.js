@@ -1,4 +1,5 @@
 // Your Script here.
+cy.invoke();
 var str = "";
 function ROT13(value) {
 	var size = value.length;
